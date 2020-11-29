@@ -56,17 +56,30 @@ It is a prototype of a Demo Store Mobile App project. Customer can see all produ
 - Storage;
   - Read data from local json file,
 
-## Roadmap
+## Source Map
 
 <pre>
-src
-   |- components
-   |           |- index.js
-   |           |- ProductCard.js
-   |           |- SearchBar.js
-   |
-   |- Main.js
-   |- product_data.json
+JobSearch
+        |
+        |- src
+            |- assets
+            |- components
+            |           |- index.js
+            |           |- Banner.js
+            |           |- FloatButton.js
+            |           |- JobItem.js
+            |           |- JobModal.js
+            |           |- TopicItem.js
+            |           |- TouchButton.js
+            |
+            |- pages
+            |      |- index.js
+            |      |- Introduction.js
+            |      |- Jobs.js
+            |      |- SavedJobs.js
+            |
+            |- Router.js
+            |- styles.js
    
 </pre>
 
