@@ -2,18 +2,18 @@
 
   <h1 align="center">JOB SEARCHING APP</h1>
 <p align="center" >
-<img src="./gifs/Iphone1.gif"  height="300" width="200"  />
-<img src="./gifs/Iphone2.gif"  height="300" width="200"  />
-<img src="./gifs/Iphone3.gif"  height="300" width="200"   />
+<img src="./gifs/Iphone1.gif"  height="400" width="350"  />
+<img src="./gifs/Iphone2.gif"  height="400" width="350"   />
+<img src="./gifs/Iphone3.gif"  height="400" width="350"    />
 </p>
 <p align="center">Iphone 12 (Emulator)<p>
 <p align="center" >
-<img src="./gifs/Android1.gif"  height="300" width="200"  />
-<img src="./gifs/Android2.gif"  height="300" width="200"   />
-<img src="./gifs/Android2.gif"  height="300" width="200"   />
+<img src="./gifs/Android1.gif"  height="400" width="350"   />
+<img src="./gifs/Android2.gif"  height="400" width="350"    />
+<img src="./gifs/Android2.gif"  height="400" width="350"    />
 
 </p>
-<p align="center">Iphone 12 (Emulator)<p>
+<p align="center">Samsung Galaxy S10 (Emulator)<p>
 <hr/>
 
 <!-- TABLE OF CONTENTS -->
