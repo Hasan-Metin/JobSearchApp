@@ -39,9 +39,9 @@
 
 <h3>This project is a practice example of React Native.</h3>
 
-<p>It is a prototype of a Demo Job Searching App project. I used GitHub Jobs API that provides real job oppurtunuties for developers. The App is consist of 3 pages. First page is is for users to pick their prefered programming language to check available jobs. Besides it is possible to go directly to saved saved jobs page which contains users saved job preferences from previous enterance.</p>
-<p>The second page displays available jobs in tiny descriptive cards. These data fetched from API regarding chosed programming language by user. If the user click on the cards then a modal card show up to display a bit more information about chosen job item. At this model page user could go to regarding web page to see full details about the job and to apply, or save this job in his mobile phone to keep it for his/her future considiration. On the other hand it is also possible to skip the modal card by click out of the card area. </p>
-<p> The third page dispays the previously saved job items. At this page it also possible to open model card by click on job items to see details of chosen job also to remove it from the saved jobs list</p>
+<p>It is a prototype of a Demo Job Searching App project. I used GitHub Jobs API that provides real job opportunities for developers. The App is consists of 3 pages. The first page is for users to pick their preferred programming language to check available jobs. Besides, it is possible to go directly to the saved jobs page which contains users' saved job preferences from the previous entrance.</p>
+<p>The second page displays available jobs in tiny descriptive cards. These data are fetched from API regarding the chosen programming language by the user. If the user clicks on the cards then a modal card shows up to display a bit more information about the chosen job item. At this model page, the user could go to the regarding web page to see full details about the job and to apply, or save this job in his mobile phone to keep it for his is/her future consideration. On the other hand, it is also possible to skip the modal card by click out of the card area. </p>
+<p> The third page displays the previously saved job items. On this page, it is also possible to open the model card by click on job items to see details of the chosen job also to remove it from the saved jobs list.</p>
 
 ## Built With
 
@@ -50,26 +50,32 @@
 ## Reviewed Topics
 
 - React Native;
+
   - Functional Components,
   - Custom Components,
   - React Native Built-in Components,
   - To style components and pages by using unified style sheet.
 
 - React;
+
   - useState, useEffect Hooks,
   - props pass functions,
 
-- Storage;
+- Data Storage;
+
   - Async local storage
 
-- Fetch Data
+- Fetching Data;
+
   - Fetching data from rest api by using Axios library
 
-- Pagination
+- Pagination;
+
   - Used stack navigation by implementing React Navigation
   - Used animated modal page by implementing React Native Modal from Community
 
-- Third Party Libraries
+- Third Party Libraries;
+
   - axios
   - react-native-async-storage/async-storage
   - react-navigation/native
@@ -77,8 +83,8 @@
   - moment.js
   - react-native-modal
 
-
-
+- Used API Endpoints;
+  - <url>https://jobs.github.com/positions.json</url>
 
 ## Source Map
 
@@ -118,16 +124,18 @@ To install dependencies run these CLI commands in JobSearch folder:
 ```sh
 yarn start
 ```
+
 or
+
 ```sh
 npm start
 ```
+
 If you use macOS
 
 ```sh
 npx pod-install ios && cd ios && pod install && cd ..
 ```
-
 
 ## Contributing
 
