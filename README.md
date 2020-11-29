@@ -155,7 +155,7 @@ Project Link: <url>https://github.com/Hasan-Metin/JobSearchApp.git<url>
 
 <!-- ACKNOWLEDGEMENTS -->
 
-More feature will be added on soon.
+More features will be added on soon.
 
 If you have any question or suggestion, feel free to [open an issue](https://github.com/Hasan-Metin/JobSearchApp/issues).
 
