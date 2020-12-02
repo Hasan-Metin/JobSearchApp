@@ -134,7 +134,7 @@ npm install
 If you use macOS
 
 ```sh
-npx pod-install ios && cd ios && pod install && cd ..
+cd ios && pod install && cd ..
 ```
 
 ## Contributing
