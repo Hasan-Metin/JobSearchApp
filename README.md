@@ -39,7 +39,7 @@
 
 <h3>This project is a practice example of React Native.</h3>
 
-<p>It is a prototype of a Demo Job Searching App project. I used GitHub Jobs API that provides real job opportunities for developers. The App is consists of 3 pages. The first page is for users to pick their preferred programming language to check available jobs. Besides, it is possible to go directly to the saved jobs page which contains users' saved job preferences from the previous entrance.</p>
+<p>It is a prototype of a Demo Job Searching App project. I used GitHub Jobs API that provides real job opportunities for developers. The App consists of 3 pages. The first page is for users to pick their preferred programming language to check available jobs. Besides, it is possible to go directly to the saved jobs page which contains users' saved job preferences from the previous entrance.</p>
 <p>The second page displays available jobs in tiny descriptive cards. These data are fetched from API regarding the chosen programming language by the user. If the user clicks on the cards then a modal card shows up to display a bit more information about the chosen job item. At this model page, the user could go to the regarding web page to see full details about the job and to apply, or save this job in his mobile phone to keep it for his is/her future consideration. On the other hand, it is also possible to skip the modal card by click out of the card area. </p>
 <p> The third page displays the previously saved job items. On this page, it is also possible to open the model card by click on job items to see details of the chosen job also to remove it from the saved jobs list.</p>
 
