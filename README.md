@@ -13,7 +13,7 @@
 <p align="center" >
 <img src="./gifs/Android1.gif"  height="350" width="250"   />
 <img src="./gifs/Android2.gif"  height="350" width="250"    />
-<img src="./gifs/Android2.gif"  height="350" width="250"    />
+<img src="./gifs/Android3.gif"  height="350" width="250"    />
 </p>
 <p align="center">Samsung Galaxy S10 (Emulator)<p>
 <hr/>
@@ -122,13 +122,13 @@ git clone https://github.com/Hasan-Metin/StoreApp.git
 To install dependencies run these CLI commands in JobSearch folder:
 
 ```sh
-yarn start
+yarn install
 ```
 
 or
 
 ```sh
-npm start
+npm install
 ```
 
 If you use macOS
