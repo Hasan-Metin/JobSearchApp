@@ -18,7 +18,7 @@
 <p align="center">Samsung Galaxy S10 (Emulator)<p>
 <hr/>
 
-<!-- TABLE OF CONTENTS -->
+
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
